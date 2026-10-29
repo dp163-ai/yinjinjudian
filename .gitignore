@@ -16,3 +16,6 @@ dist/
 tmp/
 *.log
 .swc-cache/
+
+# 部署验证临时截图
+deploy_*.png
